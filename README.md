@@ -8,4 +8,4 @@ Hi there! I'm Leonardo from Brazil, currently studying Computer Engineering at U
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoCHb&count_private=true&theme=tokyonight )
 
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=LeonardoCHb&hide=php&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
